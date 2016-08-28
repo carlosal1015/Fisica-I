@@ -1,2 +1,1 @@
-# Fisica-I
-Curso de Física I
+# Fisica I
