@@ -1,0 +1,5 @@
+Valores	Tiempo	VelocidadMedia
+1	1.10	4.55
+2	2.10	4.76
+3	3.01	4.98
+4	3.92	5.10
