@@ -5,7 +5,8 @@ Características
 
 Paquetes permitidos
 
-* [.textile](https://www.promptworks.com/textile) -- `gem install RedCloth`
+* [.textile]() -- `\usepackage[utf8]{inputenc}`
+*
 Installation
 -----------
 ```
