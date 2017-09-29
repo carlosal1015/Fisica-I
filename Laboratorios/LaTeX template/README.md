@@ -5,9 +5,9 @@ Características
 
 Paquetes permitidos
 
-* [.textile]() -- `\usepackage[utf8]{inputenc}`
-*
-Installation
+* [.Entrada]() -- `\usepackage[utf8]{inputenc}`
+* [.Fuente]()-- `\usepackage{libertine}`
+Instalación
 -----------
 ```
 git clone git@github.com:carlosal1015/Fisica-I/Laboratorios.git
