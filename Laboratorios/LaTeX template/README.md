@@ -6,7 +6,9 @@ Características
 Paquetes permitidos
 
 * [.Entrada]() -- `\usepackage[utf8]{inputenc}`
-* [.Fuente]()-- `\usepackage{libertine}`
+* [.Fuente Linux Libertine]() -- `\usepackage{libertine}`
+* [.BookTabs](http://ctan.uniminuto.edu/macros/latex/contrib/booktabs/booktabs.pdf) -- {booktabs}`
+
 Instalación
 -----------
 ```
