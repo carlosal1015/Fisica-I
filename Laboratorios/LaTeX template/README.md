@@ -6,7 +6,6 @@ Plantilla fcuniphysicslab.cls
 git clone git@github.com:carlosal1015/Fisica-I/Laboratorios.git
 ```
 ----------
-Características
 
 Lista de paquetes soportados
 -----
