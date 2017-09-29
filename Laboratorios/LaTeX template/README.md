@@ -9,8 +9,7 @@ Paquetes permitidos
 Installation
 -----------
 ```
-git clone git@github.com:whatever
+git clone git@github.com:carlosal1015/Fisica-I/Laboratorios.git
 ```
-
-Usage
+Paquetes soportados
 -----
